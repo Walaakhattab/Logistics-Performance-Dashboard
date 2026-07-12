@@ -27,9 +27,6 @@ This Power BI dashboard analyzes logistics operations and delivery performance t
 ### Executive Dashboard
 
 ![Executive Dashboard](Executive_Dashboard.png)
-### Drivers Dashboard
-
-![Drivers Dashboard](Drivers_Dashboard.png)
 
 ### Hubs Dashboard
 
@@ -38,3 +35,7 @@ This Power BI dashboard analyzes logistics operations and delivery performance t
 ### Vehicles Dashboard
 
 ![Vehicles Dashboard](Vehicles_Dashboard.png)
+### Drivers Dashboard
+
+![Drivers Dashboard](Drivers_Dashboard.png)
+
